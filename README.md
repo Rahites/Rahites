@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-Hello, I'm TaeBeom Lee, Undergraduate who dreams of being a Data Scientist.
+Hello, I'm TaeBeom Lee, Graduate student who dreams of being an AI Engineer.
 
-I am going to graduate from Kookmin Univ. in 2024 major in AI Big Data & Management and minor in Data Science.
+I graduate from Kookmin Univ. in February 2024 major in AI Big Data & Management and minor in Data Science(Bachelor's Degree).
 
 ---
 ### 💬 About Me
